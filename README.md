@@ -1,4 +1,6 @@
 # Credit-Card-Fraud-Detection
+![image](https://github.com/Praju-16/Credit-Card-Fraud-Detection/assets/141834374/c05975d1-a7ef-43f4-8e32-b4f20c8cea1a)
+
 Build a machine learning model to identify fraudulent credit card transactions.
 
 Intern Information
@@ -36,11 +38,13 @@ To run this project locally, follow these steps:
 
 1.	Clone the repository to your local machine:
 	
-https://github.com/Praju-16/Credit-Card-Fraud-Detection.gitInstall the required Python libraries using pip:
+https://github.com/Praju-16/Credit-Card-Fraud-Detection.git
+
+2.Install the required Python libraries using pip:
 
 pip install –r requirements.txt
 
-2.	Download the Titanic dataset (CSV file) from Kaggle and place it in the project directory.
+3.Download the Titanic dataset (CSV file) from Kaggle and place it in the project directory.
 	
 Run the Jupyter Notebook or Python script to explore the dataset, preprocess the data, build the model, and evaluate its performance.
 
