@@ -29,3 +29,36 @@ Problem statement
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 In this project, we will analyse customer-level data which has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
 The dataset is taken from the Kaggle website and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
+
+Getting Started
+
+To run this project locally, follow these steps:
+
+1.	Clone the repository to your local machine:
+	
+https://github.com/Praju-16/Credit-Card-Fraud-Detection.gitInstall the required Python libraries using pip:
+
+pip install –r requirements.txt
+
+2.	Download the Titanic dataset (CSV file) from Kaggle and place it in the project directory.
+	
+Run the Jupyter Notebook or Python script to explore the dataset, preprocess the data, build the model, and evaluate its performance.
+
+Evaluation
+
+The model's performance is assessed using various metrics, including:
+
+•	Accuracy: The proportion of correct predictions.
+
+•	Precision: The ability of the model to correctly identify positive cases.
+
+•	Recall: The ability of the model to capture all positive cases.
+
+•	F1-Score: The harmonic mean of precision and recall.
+
+•	Classification Report: A comprehensive report displaying precision, recall, and F1-Score for each class 
+
+Output 
+
+![image](https://github.com/Praju-16/Credit-Card-Fraud-Detection/assets/141834374/9eca77d2-2b72-43d2-a0e8-88665c8f1a82)
+
